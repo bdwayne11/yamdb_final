@@ -1,4 +1,4 @@
-https://github.com/bdwayne11/yamdb_final/actions/workflows/yamdb_workflow/badge.svg
+https://github.com/bdwayne11/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
 
 
 ***Как запустить проект:***
@@ -7,6 +7,8 @@ https://github.com/bdwayne11/yamdb_final/actions/workflows/yamdb_workflow/badge.
 
 git@github.com:bdwayne11/infra_sp2.git
 cd infra
+
+
 Cоздать и активировать виртуальное окружение:
 ```
 git@github.com:bdwayne11/infra_sp2.git
