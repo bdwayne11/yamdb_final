@@ -1,4 +1,4 @@
-https://github.com/bdwayne11/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master&event=push
+![workflow](https://github.com/bdwayne11/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master&event=push)
 
 
 ***Как запустить проект:***
