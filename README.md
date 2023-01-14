@@ -8,7 +8,6 @@ https://github.com/bdwayne11/yamdb_final/actions/workflows/yamdb_workflow/badge.
 git@github.com:bdwayne11/infra_sp2.git
 cd infra
 Cоздать и активировать виртуальное окружение:
-=======
 ```
 git@github.com:bdwayne11/infra_sp2.git
 cd infra
