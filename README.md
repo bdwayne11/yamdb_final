@@ -1,11 +1,13 @@
+# yamdb_final
+
 ![workflow](https://github.com/bdwayne11/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master&event=push)
 
 
-***Как запустить проект:***
+***Как запустить проект:***\
 Клонировать репозиторий и перейти в него в командной строке:
 
 
-git@github.com:bdwayne11/infra_sp2.git
+git@github.com:bdwayne11/infra_sp2.git\
 cd infra
 
 
