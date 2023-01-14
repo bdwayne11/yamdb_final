@@ -7,7 +7,7 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 
-git@github.com:bdwayne11/infra_sp2.git\
+git@github.com:bdwayne11/infra_sp2.git
 
 Cоздать и активировать виртуальное окружение:
 ```
