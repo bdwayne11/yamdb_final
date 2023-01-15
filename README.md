@@ -2,6 +2,12 @@
 
 ![workflow](https://github.com/bdwayne11/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master&event=push)
 
+Рабочие URLs:\
+```
+http://84.201.135.11/api/v1/
+http://84.201.135.11/admin
+http://84.201.135.11/redoc
+```
 
 ***Как запустить проект:***\
 Клонировать репозиторий и перейти в него в командной строке:
